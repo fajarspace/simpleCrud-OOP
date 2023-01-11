@@ -43,6 +43,7 @@
         break;
       case "edit":
         include "halaman/edit.php";
+        break;
       case "detail":
         include "halaman/detail.php";
         break;
